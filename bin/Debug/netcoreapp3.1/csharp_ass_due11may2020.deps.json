@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "csharp_ass_due11may2020/1.0.0": {
+        "runtime": {
+          "csharp_ass_due11may2020.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "csharp_ass_due11may2020/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

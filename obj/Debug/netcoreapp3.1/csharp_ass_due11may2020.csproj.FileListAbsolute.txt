@@ -1,0 +1,11 @@
+C:\Users\kelst\Desktop\MANPOWER\csharp_ass_due11may2020\bin\Debug\netcoreapp3.1\csharp_ass_due11may2020.exe
+C:\Users\kelst\Desktop\MANPOWER\csharp_ass_due11may2020\bin\Debug\netcoreapp3.1\csharp_ass_due11may2020.deps.json
+C:\Users\kelst\Desktop\MANPOWER\csharp_ass_due11may2020\bin\Debug\netcoreapp3.1\csharp_ass_due11may2020.runtimeconfig.json
+C:\Users\kelst\Desktop\MANPOWER\csharp_ass_due11may2020\bin\Debug\netcoreapp3.1\csharp_ass_due11may2020.runtimeconfig.dev.json
+C:\Users\kelst\Desktop\MANPOWER\csharp_ass_due11may2020\bin\Debug\netcoreapp3.1\csharp_ass_due11may2020.dll
+C:\Users\kelst\Desktop\MANPOWER\csharp_ass_due11may2020\bin\Debug\netcoreapp3.1\csharp_ass_due11may2020.pdb
+C:\Users\kelst\Desktop\MANPOWER\csharp_ass_due11may2020\obj\Debug\netcoreapp3.1\csharp_ass_due11may2020.csprojAssemblyReference.cache
+C:\Users\kelst\Desktop\MANPOWER\csharp_ass_due11may2020\obj\Debug\netcoreapp3.1\csharp_ass_due11may2020.AssemblyInfoInputs.cache
+C:\Users\kelst\Desktop\MANPOWER\csharp_ass_due11may2020\obj\Debug\netcoreapp3.1\csharp_ass_due11may2020.AssemblyInfo.cs
+C:\Users\kelst\Desktop\MANPOWER\csharp_ass_due11may2020\obj\Debug\netcoreapp3.1\csharp_ass_due11may2020.dll
+C:\Users\kelst\Desktop\MANPOWER\csharp_ass_due11may2020\obj\Debug\netcoreapp3.1\csharp_ass_due11may2020.pdb
