@@ -1,0 +1,11 @@
+This is the text file the program will parse from.  All capitalized wordsSNOTshould be 'killed' when the program runs
+--- SNOT ---
+This is another paragraph in SNOT the program parsing file.  It should also have all the user-provided strings removed and replaced with just a space. SNOTSNOTSNOT LOL!
+--- SNOT ---
+The word "SNOT" will parsed from this SNOT-file (or SNOT)
+--- SNOT ---
+mySNOTPoem:
+    Some people thing its funny,
+    when your nose is really runny,
+    but it's SNOT!
+(That is SNOT funny!)
