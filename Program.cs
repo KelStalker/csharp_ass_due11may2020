@@ -12,6 +12,7 @@ namespace csharp_ass_due11may2020
             // Option 1 will prompt the user to enter a filename. The filename will be stored in a local variable.
             string userFileName = "";
             string userChoice = "0";
+            string userParseString = "";
 
             while (userChoice != "3")
             {
@@ -47,7 +48,10 @@ namespace csharp_ass_due11may2020
                             readUserFileText = File.ReadAllText(userFileName);
                             Console.WriteLine(readUserFileText);
 
-                            Console.WriteLine("")
+                            Console.WriteLine("Enter a string to parse (use the word: SNOT");
+                            userParseString = Console.ReadLine();
+                            readUserFileText = readUserFileText.Replace( userParseString, " ");
+                            File.WriteAllText(userFileName, readUserFileText);
 
                         } else {
                             Console.WriteLine("File does not exist");
